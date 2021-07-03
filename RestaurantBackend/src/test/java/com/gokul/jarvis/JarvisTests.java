@@ -1,10 +1,10 @@
-package com.gokul.restaurantbackend;
+package com.gokul.jarvis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestaurantBackendApplicationTests {
+class JarvisTests {
 
     @Test
     void contextLoads() {
